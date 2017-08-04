@@ -1,0 +1,77 @@
+    body {
+        margin: 0px;
+        padding: 0px;
+        background-color: darkgray;
+    }
+
+    #login-back {
+
+        margin: 0px 100px;
+        clear: both;
+        clear: inherit;
+        background: #A8567A;
+        background: -webkit-linear-gradient( #A8567A, white);
+        background: -o-linear-gradient( #A8567A, white);
+        background: -moz-linear-gradient( #A8567A, white);
+        background: linear-gradient( #A8567A, white);
+        height: 100%;
+        float: top;
+        padding: 40px;
+        min-width: 320px;
+    }
+
+    #login-box {
+        padding: 10px;
+        border: 1px solid #797979;
+        width: 260px;
+        background-color: white;
+    }
+
+    #top {
+        background-color: #8B0A42;
+        background: -webkit-linear-gradient(left, #8B0A42, #A8567A，#8B0A42);
+        background: -o-linear-gradient(right, #8B0A42, #A8567A, #8B0A42);
+        background: -moz-linear-gradient(right, #8B0A42, #A8567A, #8B0A42);
+        background: linear-gradient(to left, #8B0A42, #A8567A, #8B0A42);
+        padding: 10px;
+        color: white;
+        font-size: 40px;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    #eng {
+        font-size: 20px;
+        float: right;
+        top: 0px;
+        color: white;
+        clear: inherit;
+        text-decoration: none;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    #eng:hover {
+        text-decoration: underline;
+    }
+
+    #bottom {
+        float: bottom;
+        background-color: #8B0A42;
+        background: -webkit-linear-gradient(left, #8B0A42, #A8567A，#8B0A42);
+        background: -o-linear-gradient(right, #8B0A42, #A8567A, #8B0A42);
+        background: -moz-linear-gradient(right, #8B0A42, #A8567A, #8B0A42);
+        background: linear-gradient(to left, #8B0A42, #A8567A, #8B0A42);
+        width: 100%;
+        height: 100px;
+    }
+
+    .separation {
+        background-color: #c5a97f;
+        height: 5px;
+    }
+
+    table,
+    td {
+        border: 1px solid black;
+    }
